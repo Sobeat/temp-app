@@ -2,7 +2,7 @@
   "name": "react_make_url",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://Sobeat.github.io/temp-app",
+  "homepage": "https://Sobeat.github.io/temp-app/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
