@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//Sobeat.github.io/temp-app/static/css/main.073c9b0a.css",
-    "main.js": "//Sobeat.github.io/temp-app/static/js/main.779c8ca4.js",
-    "static/js/787.8df2f28a.chunk.js": "//Sobeat.github.io/temp-app/static/js/787.8df2f28a.chunk.js",
-    "index.html": "//Sobeat.github.io/temp-app/index.html",
-    "main.073c9b0a.css.map": "//Sobeat.github.io/temp-app/static/css/main.073c9b0a.css.map",
-    "main.779c8ca4.js.map": "//Sobeat.github.io/temp-app/static/js/main.779c8ca4.js.map",
-    "787.8df2f28a.chunk.js.map": "//Sobeat.github.io/temp-app/static/js/787.8df2f28a.chunk.js.map"
+    "main.css": "/temp-app/static/css/main.073c9b0a.css",
+    "main.js": "/temp-app/static/js/main.9a0a72ba.js",
+    "static/js/787.8df2f28a.chunk.js": "/temp-app/static/js/787.8df2f28a.chunk.js",
+    "index.html": "/temp-app/index.html",
+    "main.073c9b0a.css.map": "/temp-app/static/css/main.073c9b0a.css.map",
+    "main.9a0a72ba.js.map": "/temp-app/static/js/main.9a0a72ba.js.map",
+    "787.8df2f28a.chunk.js.map": "/temp-app/static/js/787.8df2f28a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.779c8ca4.js"
+    "static/js/main.9a0a72ba.js"
   ]
 }
