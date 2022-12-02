@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//Sobeat.github.io/temp-app/static/css/main.073c9b0a.css",
-    "main.js": "//Sobeat.github.io/temp-app/static/js/main.257d0d38.js",
+    "main.js": "//Sobeat.github.io/temp-app/static/js/main.2e487d76.js",
     "static/js/787.8df2f28a.chunk.js": "//Sobeat.github.io/temp-app/static/js/787.8df2f28a.chunk.js",
     "index.html": "//Sobeat.github.io/temp-app/index.html",
     "main.073c9b0a.css.map": "//Sobeat.github.io/temp-app/static/css/main.073c9b0a.css.map",
-    "main.257d0d38.js.map": "//Sobeat.github.io/temp-app/static/js/main.257d0d38.js.map",
+    "main.2e487d76.js.map": "//Sobeat.github.io/temp-app/static/js/main.2e487d76.js.map",
     "787.8df2f28a.chunk.js.map": "//Sobeat.github.io/temp-app/static/js/787.8df2f28a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.257d0d38.js"
+    "static/js/main.2e487d76.js"
   ]
 }
